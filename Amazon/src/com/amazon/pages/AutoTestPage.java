@@ -10,7 +10,7 @@ import com.qmetry.qaf.automation.ui.api.WebDriverTestPage;
 import com.qmetry.qaf.automation.ui.webdriver.QAFWebElement;
 
 public class AutoTestPage extends WebDriverBaseTestPage<WebDriverTestPage> {
-
+//////////
 	@FindBy(locator = "text.search")
 	private QAFWebElement textSearch;
 	@FindBy(locator = "link.amazon")
