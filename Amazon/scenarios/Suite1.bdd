@@ -1,0 +1,11 @@
+
+
+SCENARIO: Scenario1
+META-DATA: {"description":"launching amazon website"}
+	
+	Given google launch page
+	When verify google homepage
+    Then google home page search
+
+END
+

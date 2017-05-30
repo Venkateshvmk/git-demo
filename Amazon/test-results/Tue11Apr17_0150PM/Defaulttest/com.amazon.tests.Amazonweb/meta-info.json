@@ -1,0 +1,21 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [
+          "P1"
+        ],
+        "name": "Scenario1",
+        "sign": "Amazonweb.Scenario1()[pri:0, instance:com.amazon.tests.Amazonweb@5579bb86]"
+      },
+      "dependsOn": [],
+      "startTime": 1491898846979,
+      "duration": 12418,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

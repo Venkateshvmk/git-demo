@@ -1,0 +1,32 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "Google_launch",
+      "args": [
+        "[]"
+      ],
+      "result": "success",
+      "subLogs": [
+        {
+          "commandName": "get",
+          "args": [
+            "{url=http://www.google.com}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 2666
+        }
+      ],
+      "duration": -1
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "google launch page",
+      "type": "TestStepPass",
+      "duration": 2668,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ]
+}

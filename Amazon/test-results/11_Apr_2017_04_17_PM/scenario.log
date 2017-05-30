@@ -1,0 +1,16 @@
+16:17:49 scenario.file.loc[Ljava.lang.String;@711f39f9
+16:17:49 loading BDD file: D:\Wworkspace\Amazon\.\scenarios\Suite1.bdd
+16:17:49 total test found: 1
+16:17:50 
+
+Executing scenario: Scenario1 - 
+16:17:50 pkg: com.qmetry.qaf.automation.step
+16:17:50 pkg: com.amazon
+16:17:50 Found duplicate step to load [] with [lower] prority then []
+16:17:50 Invoking Teststep: Given google launch page
+16:17:56 Completed Teststep: Given google launch page
+16:17:56 Invoking Teststep: Then verify google homepage
+16:17:57 Completed Teststep: Then verify google homepage
+16:17:57 Invoking Teststep: Then google home page search
+16:18:17 Completed Teststep: Then google home page search
+16:18:17 Competed scenario: Scenario1 with status SUCESS

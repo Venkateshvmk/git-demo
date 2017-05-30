@@ -1,0 +1,41 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "launching amazon website",
+        "groups": [],
+        "lineNo": 3.0,
+        "name": "Scenario1",
+        "referece": "scenarios/Suite1.bdd",
+        "sign": "scenarios.Suite1.bdd.Scenario1()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "startTime": 1491915874326,
+      "duration": 14839,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "launching amazon website",
+        "groups": [],
+        "lineNo": 3,
+        "name": "Scenario1",
+        "referece": "scenarios/Suite1.bdd",
+        "resultFileName": "Scenario1UzKEAptrQc",
+        "sign": "scenarios.Suite1.bdd.Scenario1()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "startTime": 1491915885425,
+      "duration": 13062,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

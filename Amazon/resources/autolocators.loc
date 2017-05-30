@@ -1,0 +1,8 @@
+text.search = {\"locator\":\"name=q\",\"desc\":\"Input for Search\",\"frame\":\"\"}
+link.amazon = {\"locator\":\"id=hplogo\",\"desc\":\"Link for Amazon\",\"frame\":\"\"}
+your.amazon = {\"locator\":\"id=nav-your-amazon\"}
+login.passwrd = {\"locator\":\"id=ap_password\"}
+login.uname = {\"locator\":\"xpath=//input[@type='email']\"}
+login.button = {\"locator\":\"id=signInSubmit\"}
+div.google = {\"locator\":\"name=btnI\",\"desc\":\"Text Google\",\"frame\":\"\"}
+link.amazon1 = {\"locator\":\"link=Amazon\",\"desc\":\"Link for Amazon\",\"frame\":\"\"}

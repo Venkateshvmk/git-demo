@@ -1,0 +1,20 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "amazon website",
+        "groups": [],
+        "name": "Scenario1",
+        "sign": "Suite1.Scenario1()[pri:0, instance:com.amazon.tests.Suite1@10dba097]"
+      },
+      "dependsOn": [],
+      "startTime": 1491210725679,
+      "duration": 36979,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

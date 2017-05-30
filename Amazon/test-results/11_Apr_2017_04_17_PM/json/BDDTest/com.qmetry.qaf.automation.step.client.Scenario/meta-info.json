@@ -1,0 +1,24 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "P1"
+        ],
+        "lineNo": 3,
+        "name": "Scenario1",
+        "referece": "scenarios/Suite1.bdd",
+        "sign": "scenarios.Suite1.bdd.Scenario1()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "startTime": 1491907670041,
+      "duration": 27934,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

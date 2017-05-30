@@ -1,0 +1,15 @@
+12:25:24 scenario.file.loc[Ljava.lang.String;@167fdd33
+12:25:24 loading BDD file: D:\Wworkspace\Amazon\.\scenarios\Amazonweb.bdd
+12:25:24 total test found: 1
+12:25:24 
+
+Executing scenario: Scinario1 - 
+12:25:24 pkg: com.qmetry.qaf.automation.step
+12:25:25 pkg: com.amazon
+12:25:25 Invoking Teststep: google launch page
+12:25:31 Completed Teststep: google launch page
+12:25:31 Invoking Teststep: verify google homepage
+12:25:31 Completed Teststep: verify google homepage
+12:25:31 Invoking Teststep: google home page search
+12:25:41 Completed Teststep: google home page search
+12:25:41 Competed scenario: Scinario1 with status SUCESS

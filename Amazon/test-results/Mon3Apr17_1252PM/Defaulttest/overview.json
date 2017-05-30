@@ -1,0 +1,34 @@
+{
+  "total": 1,
+  "pass": 1,
+  "fail": 0,
+  "skip": 0,
+  "classes": [
+    "com.amazon.tests.Suite1"
+  ],
+  "envInfo": {
+    "browser-actual-capabilities": {},
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "11-snapshot",
+      "qaf-Version": "2.1",
+      "qaf-Build-Time": "26-Mar-2017 15:46:10"
+    },
+    "run-parameters": {
+      "baseurl": "http://www.amazon.com",
+      "resources": "resources"
+    },
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "1.8.0_111",
+      "os.arch": "amd64",
+      "host": "ICPL11529",
+      "os.name": "Windows 8",
+      "user.name": "venkatesh.kanakatta",
+      "os.version": "6.2"
+    }
+  },
+  "startTime": 1491204132680,
+  "endTime": 1491204132726
+}

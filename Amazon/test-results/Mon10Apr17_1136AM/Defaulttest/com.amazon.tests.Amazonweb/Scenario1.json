@@ -1,0 +1,131 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "Google_launch",
+      "args": [
+        "[]"
+      ],
+      "result": "success",
+      "subLogs": [
+        {
+          "commandName": "get",
+          "args": [
+            "{url=http://www.google.com}"
+          ],
+          "result": "null",
+          "subLogs": [],
+          "duration": 2735
+        }
+      ],
+      "duration": -1
+    },
+    {
+      "commandName": "Google_verify",
+      "args": [
+        "[]"
+      ],
+      "result": "success",
+      "subLogs": [
+        {
+          "commandName": "findElements",
+          "args": [
+            "{value=btnI, using=name}"
+          ],
+          "result": "[id: 0.162367572137893-1]",
+          "subLogs": [],
+          "duration": 27
+        },
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=btnI, using=name}"
+          ],
+          "result": "id: 0.162367572137893-1",
+          "subLogs": [],
+          "duration": 18
+        },
+        {
+          "commandName": "isElementDisplayed",
+          "args": [
+            "By.name: btnI",
+            "{\"id\":\"0.162367572137893-1\"}"
+          ],
+          "result": "isElementDisplayed:true",
+          "subLogs": [],
+          "duration": 16
+        },
+        {
+          "commandName": "findElements",
+          "args": [
+            "{value=btnI, using=name}"
+          ],
+          "result": "[id: 0.162367572137893-1]",
+          "subLogs": [],
+          "duration": 15
+        }
+      ],
+      "duration": -1
+    },
+    {
+      "commandName": "Google_search",
+      "args": [
+        "[]"
+      ],
+      "result": "success",
+      "subLogs": [
+        {
+          "commandName": "findElement",
+          "args": [
+            "{value=q, using=name}"
+          ],
+          "result": "id: 0.162367572137893-2",
+          "subLogs": [],
+          "duration": 11
+        },
+        {
+          "commandName": "sendKeysToElement",
+          "args": [
+            "By.name: q",
+            "{\"id\":\"0.162367572137893-2\",\"value\":[\"amazon\"]}"
+          ],
+          "result": "sendKeysToElement:null",
+          "subLogs": [],
+          "duration": 124
+        }
+      ],
+      "duration": -1
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "google launch page",
+      "type": "TestStepPass",
+      "duration": 2737,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "verify google homepage",
+      "type": "TestStepPass",
+      "duration": 212,
+      "threshold": 0,
+      "subCheckPoints": [
+        {
+          "message": "Expected \"Google Image\" should be present : Actual \"Google Image\" is  present",
+          "type": "Pass",
+          "screenshot": "img/Scenario1_17qeoe691g2me36981.png",
+          "duration": 0,
+          "threshold": 0,
+          "subCheckPoints": []
+        }
+      ]
+    },
+    {
+      "message": "google home page search",
+      "type": "TestStepPass",
+      "duration": 136,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ]
+}

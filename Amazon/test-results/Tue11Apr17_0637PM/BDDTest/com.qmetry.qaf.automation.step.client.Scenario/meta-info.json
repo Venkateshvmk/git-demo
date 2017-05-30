@@ -1,0 +1,22 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "launching amazon website",
+        "groups": [],
+        "lineNo": 3,
+        "name": "Scenario1",
+        "referece": "scenarios/Suite1.bdd",
+        "sign": "scenarios.Suite1.bdd.Scenario1()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "startTime": 1491916064647,
+      "duration": 43402,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}
